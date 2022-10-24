@@ -4,3 +4,5 @@ for dan in range(2, 7, 4) :
             print(dan+1, 'x', n, '=', (dan+1)*n, end = '\t')
         print()
     print()
+
+print("Tlqkf")
