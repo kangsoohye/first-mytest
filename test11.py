@@ -1,3 +1,4 @@
+# 백준 11728번 - 배열 합치기
 N, M = map(int, read().split())
 
 A = list(map(int, read().split()))
